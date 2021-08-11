@@ -1,0 +1,15 @@
+@font-face {
+    font-family:"HYSS1";
+    src:url("HYSS1.woff?t=1624000300view") format("woff"), /* chrome, firefox */
+    url("HYSS1.ttf?t=1624000300view") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("HYSS1.svg?t=1624000300view#HYSS1") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+/*
+@font-face {
+    font-family:"HYSS1";
+    src: url("HYSS1.eot?t=1624000300view"); IE9
+    font-style: normal;
+    font-weight: normal;
+} */

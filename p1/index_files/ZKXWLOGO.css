@@ -1,0 +1,15 @@
+@font-face {
+    font-family:"ZKXWLOGO";
+    src:url("ZKXWLOGO.woff?t=1624000306view") format("woff"), /* chrome, firefox */
+    url("ZKXWLOGO.ttf?t=1624000306view") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("ZKXWLOGO.svg?t=1624000306view#ZKXWLOGO") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+/*
+@font-face {
+    font-family:"ZKXWLOGO";
+    src: url("ZKXWLOGO.eot?t=1624000306view"); IE9
+    font-style: normal;
+    font-weight: normal;
+} */

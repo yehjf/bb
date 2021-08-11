@@ -1,0 +1,15 @@
+@font-face {
+    font-family:"FZDBSJW";
+    src:url("FZDBSJW.woff?t=1624000304view") format("woff"), /* chrome, firefox */
+    url("FZDBSJW.ttf?t=1624000304view") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("FZDBSJW.svg?t=1624000304view#FZDBSJW") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+/*
+@font-face {
+    font-family:"FZDBSJW";
+    src: url("FZDBSJW.eot?t=1624000304view"); IE9
+    font-style: normal;
+    font-weight: normal;
+} */

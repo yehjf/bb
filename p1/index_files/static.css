@@ -1,0 +1,15 @@
+@font-face {
+    font-family:"static";
+    src:url("static.woff?t=1624000305view") format("woff"), /* chrome, firefox */
+    url("static.ttf?t=1624000305view") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("static.svg?t=1624000305view#static") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+/*
+@font-face {
+    font-family:"static";
+    src: url("static.eot?t=1624000305view"); IE9
+    font-style: normal;
+    font-weight: normal;
+} */

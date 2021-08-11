@@ -1,0 +1,15 @@
+@font-face {
+    font-family:"OPPOSans-B";
+    src:url("OPPOSans-B.woff?t=1624000303view") format("woff"), /* chrome, firefox */
+    url("OPPOSans-B.ttf?t=1624000303view") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("OPPOSans-B.svg?t=1624000303view#OPPOSans-B") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+/*
+@font-face {
+    font-family:"OPPOSans-B";
+    src: url("OPPOSans-B.eot?t=1624000303view"); IE9
+    font-style: normal;
+    font-weight: normal;
+} */
